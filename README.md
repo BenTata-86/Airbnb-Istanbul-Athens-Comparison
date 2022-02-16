@@ -13,10 +13,11 @@ There is no need to run additional packages or libraries to install under the An
 ## Project Motivation<a name="motivation"></a>
 For this project I was interested about inside airbnb datas for 2 ancient and touristic cities in eastern Europe, Athens and İstanbul.
 I try to answer these questions:
+
 1-) How will be range of the prices  after the global pandemic and the comparison of these cities?
 2-) What is the number of total houses/rooms listed during a year? Are there any seasonality? The comparison of these cities.
 3-) Which neighbourhoods have the most listed houses and price comparison of these neighbourhoods in İstanbul.
- 4-) Which factors affects the prices in İstanbul?
+4-) Which factors affects the prices in İstanbul?
 
 
 ## File Descriptions <a name="files"></a>
