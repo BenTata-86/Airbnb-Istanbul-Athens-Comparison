@@ -7,3 +7,7 @@
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
+There is no need additional packages or Libraries to install beyond the Anaconda Python distribution.
+
+
+## Project Motivation<a name="motivation"></a>
