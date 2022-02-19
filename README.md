@@ -34,7 +34,7 @@ listings.csv - is used for neighbourhood analysis and  price correlation.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://).
+The main findings of the code can be found at the post available [here](https://medium.com/@dahoye46/two-ancient-cities-istanbul-vs-athens-according-to-airbnb-data-34874a126340).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
