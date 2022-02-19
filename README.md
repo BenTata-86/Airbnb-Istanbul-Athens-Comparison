@@ -14,10 +14,10 @@ There is no need to run additional packages or libraries to install under the An
 For this project I was interested about inside airbnb datas for 2 ancient and touristic cities in eastern Europe, Athens and İstanbul.
 I try to answer these questions:
 
-1. How will be range of the prices  after the global pandemic and the comparison of these cities?
-2. What is the number of total houses/rooms listed during a year? Are there any seasonality? The comparison of these cities.
-3. Which neighbourhoods have the most listed houses and price comparison of these neighbourhoods in İstanbul.
-4. Which factors affects the prices in İstanbul?
+1. What will the price range be in 2022, considering that the travel restrictions are likely to be lifted? What is the comparison of these cities?
+2. What is the total number of houses/rooms listed during 2022 for these cities? Is there any seasonality?
+3. Do location and room type affect the prices in Istanbul? Which neighborhoods have the most listed houses? Which types of rooms have the highest price?
+4. Which factors affect the prices in Istanbul?
 
 
 ## File Descriptions <a name="files"></a>
